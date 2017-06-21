@@ -11,11 +11,11 @@ pdo
 
 configuração de driver pdo
 
-mysql
-sqlite
-postgress
-oracle
-sqlserver
+* mysql
+* sqlite
+* postgress
+* oracle
+* sqlserver
 
 
 guia sqlite
