@@ -2,20 +2,25 @@
 
 # Instalação php linux
 
-* fedora 
-* centos
-* ubuntu
+## fedora 
 
-# serie pdo
+## centos
+
+## ubuntu
+
+# Serie pdo
 
 ## configuração de driver pdo
 
-* mysql
-* sqlite
-* postgress
-* oracle
-* sqlserver
+## mysql
 
+## sqlite
+
+## postgress
+
+## oracle
+
+## sqlserver
 
 # guia sqlite
 
@@ -24,7 +29,6 @@
 # guia postgress
 
 # guia oracle
-
 
 # Serie doctrine dbal
 
