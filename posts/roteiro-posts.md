@@ -1,15 +1,14 @@
-Instalação php windows
+# Instalação php windows
 
-Instalação php linux
+# Instalação php linux
 
-fedora 
-centos
-ubuntu
+* fedora 
+* centos
+* ubuntu
 
-serie 
-pdo
+# serie pdo
 
-configuração de driver pdo
+## configuração de driver pdo
 
 * mysql
 * sqlite
@@ -18,15 +17,15 @@ configuração de driver pdo
 * sqlserver
 
 
-guia sqlite
+# guia sqlite
 
-guia mysql
+# guia mysql
 
-guia postgress
+# guia postgress
 
-guia oracle
+# guia oracle
 
 
-Serie doctrine dbal
+# Serie doctrine dbal
 
-Serie zend-db
+# Serie zend-db
