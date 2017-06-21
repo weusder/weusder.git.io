@@ -1,6 +1,6 @@
 # Intalação da extenção oci e PDO OCI no PHP 
 
-Instalando driver oci para php
+## Instalando driver oci para php
 
 Instalar oracle client
 
@@ -28,7 +28,7 @@ Ao concluir a instalação digite o comando abaixo para habilitar a extenção
 
 echo extension=oci8.so > /etc/php.d/oci.ini
 
-Instalando driver OCI para PDO
+## Instalando driver OCI para PDO
 
 Verificar a versão do php que está instalado
 
