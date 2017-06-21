@@ -61,5 +61,3 @@ Fonte:
 https://github.com/CakeDC/cakephp-oracle-driver/blob/master/docs/Php7PdoOciExtensionSetup.md
 
 https://github.com/NatLibFi/NDL-VuFind2/wiki/Oracle-with-PHP-5.6-or-PHP-7-on-RHEL-6-or-CentOS-7
-
-
