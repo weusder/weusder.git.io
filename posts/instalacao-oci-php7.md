@@ -1,4 +1,4 @@
-Intalação da extenção oci e PDO OCI no PHP 
+# Intalação da extenção oci e PDO OCI no PHP 
 
 Instalando driver oci para php
 
