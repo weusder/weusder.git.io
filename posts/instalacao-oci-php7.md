@@ -57,6 +57,8 @@ Digite o comando abaixi para habilitar a extenção no arquivo de configuração
 
 echo extension=pdo_oci.so > /etc/php.d/pdo_oci.ini
 
+php -r 'print_r(get_loaded_extensions());'
+
 Fonte: 
 https://github.com/CakeDC/cakephp-oracle-driver/blob/master/docs/Php7PdoOciExtensionSetup.md
 
