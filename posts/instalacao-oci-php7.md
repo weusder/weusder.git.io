@@ -59,6 +59,8 @@ echo extension=pdo_oci.so > /etc/php.d/pdo_oci.ini
 
 php -r 'print_r(get_loaded_extensions());'
 
+erro https://github.com/oracle/node-oracledb/issues/892
+
 Fonte: 
 https://github.com/CakeDC/cakephp-oracle-driver/blob/master/docs/Php7PdoOciExtensionSetup.md
 
